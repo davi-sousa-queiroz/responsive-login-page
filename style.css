@@ -80,3 +80,21 @@ h4 {
     font-size: 1.2rem;
     color: gray;
 }
+
+@media (max-width: 768px) {
+    h2 {
+        font-size: 2em;
+    }
+
+    input {
+        width: 15rem;
+    }
+
+    button {
+        padding: 1rem 7rem;
+    }
+
+    h4 {
+        font-size: 1em;
+    }
+}
