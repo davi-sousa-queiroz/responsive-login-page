@@ -4,6 +4,15 @@ After spending the week at school and finally getting some uninterrupted coding 
 Nothing too crazy, just another step toward becoming more comfortable with front-end development.
 
 ---
+## Preview 📷
+
+![laptop Screenshot](laptop.png)
+![mobile Screenshot](mobile.png)
+
+### Project Link:
+
+
+
 
 ## Features
 	●	Responsive layout
